@@ -254,7 +254,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/You_Want_To_Know_Me">{file_caption}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Royal_X_RoxStar>[Rox࿐Star✧]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/You_Want_To_Know_Me">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Royal_X_RoxStar>[Rox࿐Star✧]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
