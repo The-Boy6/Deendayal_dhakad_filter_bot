@@ -39,8 +39,8 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ├⍟ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ : <code>{}</code>
 ╰───────────────⍟</b>"""
 
-    LOG_TEXT_G = """#NewGroup
-    
+    NEW_GROUP_TXT = """#New_Group {}
+
 Group name - {}
 Id - <code>{}</code>
 Group username - @{}
