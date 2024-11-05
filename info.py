@@ -42,9 +42,9 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '0') # request channel id ( make
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://RAXIE:RAXIE@cluster0.jbsyz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "raxieautoxbot")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'raxiexcollection')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://RAAXIE:RAAXIE@cluster0.ymgqu.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "raxieautobot")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'raxiecollection')
 
 # index movie Notification & update channel 
 DEENDAYAL_MOVIE_UPDATE_NOTIFICATION = bool(environ.get('DEENDAYAL_MOVIE_UPDATE_NOTIFICATION', False))  # NOTIFICATION On ( True ) / Off ( False )
